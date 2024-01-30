@@ -6,14 +6,14 @@ If it isn't already installed, you should first install git with the command `su
 Then in order to use _Git_, you need to set at least a name and email:
 
 ```
-{ $ git config --global user.name "Astonish"
-$ git config --globar user.email gatmacagit@gmail.com }
+$ git config --global user.name "Astonish"
+$ git config --globar user.email gatmacagit@gmail.com
 ```
 
 Then you should set the default branch name with this command:
 
 ```
-{ $ git config --global init.defaultBranch main }
+$ git config --global init.defaultBranch main
 ```
 
 Then log-in to your Github account with `gh auth login` and authoriz it with https from the web when prompted in terminal.
