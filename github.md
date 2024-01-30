@@ -16,6 +16,8 @@ Then you should set the default branch name with this command:
 $ git config --global init.defaultBranch main
 ```
 
+Then you should install GitHub-CLI with this command: `sudo pacman -S github-cli` to be able to log-in.
+
 Then log-in to your Github account with `gh auth login` and authoriz it with https from the web when prompted in terminal.
 
 ### Create a folder with your repo files
