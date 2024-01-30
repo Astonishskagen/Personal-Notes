@@ -45,7 +45,7 @@ And also we can do **task lists** which can be very useful.
 - [ ] Learn to create a Github repository.
 - [ ] Learn to manage a Github repository.
 
-Apparently we can use emojis too! :joy: :blue_heat: :sunglasses:
+Apparently we can use emojis too! :joy: :blue_heart: :sunglasses:
 
 Also I fond out that I can ==hihlight important lines== **in markdown**.
 
