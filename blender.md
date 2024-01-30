@@ -1,4 +1,4 @@
-# Blender Notes
+# Blender Notes - An Update!
 
 ## My Fake Blender Notes
 
