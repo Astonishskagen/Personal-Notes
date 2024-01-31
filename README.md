@@ -8,4 +8,4 @@ This is still a work in progress, but if you are curious, in the meantime, you c
 - [Markdown Notes](https://github.com/astonish-g/Personal-Notes/blob/main/markdown.md)
 
 > [!WARNING]
-> But remember, this is still a work in progress. In this repo, there will be only my personal-notes, which can also be wrong information. I am taking these notes while continueing to learn.
+> Please remember, this is still a work in progress. In this repo, there will be only my personal-notes, which can also be wrong information. I am taking these notes while continueing to learn.
