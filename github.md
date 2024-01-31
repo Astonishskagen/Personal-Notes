@@ -32,7 +32,7 @@ First of all you should create a local directory, wherever you want in your comp
 ### Start the Git repository
 
 After doing all of the steps above succesfully, from the terminal, navigate inside your folder. To the root directory of your _Git_ repository. It is the main folder that will be uploaded to _GitHub_. From inside that folder type this comnmand:
-`{ $ git init }`
+`{ $ git init -b main }`
 
 ### Add files to the repository
 
@@ -44,7 +44,24 @@ Now that we have selected the files that needs to be included in our git reposit
 
 ### Create a Github repository
 
-Go to the GitHub webpage and to the repository section of your account and click the green `NEW` button to add a new repository. There after you choose all the options you want, select the name..etc and create the repository. The page will lead you to a web page where it will explain how to push your already existing local repository in the second section. Copy and paste those three lines and your local repository will be copied to the cloud GitHub page.
+Go to the GitHub webpage and to the repository section of your account and click the green `NEW` button to add a new repository. There after you choose all the options you want, select the name..etc and create the repository. The page will lead you to a web page where it will explain how to push your already existing local repository in the second section. Copy and paste those three lines and your local repository will be copied to the cloud GitHub page. That web page doesn't appear if you choose to create the repo with readme.md. In such case, follow the step below.
+
+### After creating the reposiory, do this first:
+
+- Navigate to the directory of the repository's root folder in your terminal
+- type these commands
+  ```
+  git remote add <chose an alias for your github repo url><your github repo url>
+  git branch -M main
+  git push -u origin main
+  ```
+  Here's an example:
+  ```
+  git remote add origin https://github.com/astonish-g/bash-scripts.git
+  git branch -M main
+  git push -u origin main
+  ```
+  In the example above, origin is chosen as the alias for the github repo's url. You can set any name. And then the link to the github repo is copied on it. Then you choose the main branch for it and push your files to the repo for the first time.
 
 ### How to apply and push modifications?
 
