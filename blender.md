@@ -39,8 +39,13 @@ Apparently we can use **definitions** too. How to do that? Let's try:
 Blender
 : It is a beautiful application to 3D model.
 
-Let's try adding a photo as well!
+Let's try adding an image with github link:
+
 ![blender](https://github.com/Astonishskagen/g-notes/blob/main/images/blender/blender.png)
+
+And one with a **relative link**:
+
+![blender_rel](images/blender/blender.png)
 
 And also we can do **task lists** which can be very useful.
 
