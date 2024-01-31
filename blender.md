@@ -39,6 +39,9 @@ Apparently we can use **definitions** too. How to do that? Let's try:
 Blender
 : It is a beautiful application to 3D model.
 
+Let's try adding a photo as well!
+![blender}(images/blender/blender.png)
+
 And also we can do **task lists** which can be very useful.
 
 - [x] Practicing markdown syntax.
