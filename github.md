@@ -69,3 +69,16 @@ Go to the GitHub webpage and to the repository section of your account and click
 ### How to apply and push modifications?
 
 Well, inside your repository, after you made the changes, add the files that you want to commit again, with always `git add <file name>` command or `git add .` to add all the modifications and commit the added files with `git commit -m "<your comment>"` and finally push it with `git push -u origin main` command.
+
+### How to use the same repo, with the same user on two different computers?
+
+- First clone the repos in a directory where you want to keep the work.
+- Sign in to github with **github-cli-git** tool that you had downloaded earlier.
+- Find out the used **user.name** and the **user.emai** for the git global with `git config --list` command.
+- Set the global **user.name** and the **user.email** like the other computer with these commands. You had the necessary information for the user.name and the user.email as explained on the previous list item. So use these commands:
+  ```
+  git config --global user.name "chosen username"
+  git config --global user.email <chosen user email>
+  git config --global init.defaultBranch main
+  ```
+- After completing these steps, you can start pushin to the GitHub repository from the other computer too.
