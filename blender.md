@@ -40,7 +40,7 @@ Blender
 : It is a beautiful application to 3D model.
 
 Let's try adding a photo as well!
-![blender}(images/blender/blender.png)
+![blender}(https://github.com/Astonishskagen/g-notes/blob/main/images/blender/blender.png)
 
 And also we can do **task lists** which can be very useful.
 
