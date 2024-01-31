@@ -46,6 +46,9 @@ Now that we have selected the files that needs to be included in our git reposit
 
 Go to the GitHub webpage and to the repository section of your account and click the green `NEW` button to add a new repository. There after you choose all the options you want, select the name..etc and create the repository. The page will lead you to a web page where it will explain how to push your already existing local repository in the second section. Copy and paste those three lines and your local repository will be copied to the cloud GitHub page. That web page doesn't appear if you choose to create the repo with readme.md. In such case, follow the step below.
 
+> [!NOTE]
+> Do not choose to create a README.md file while creating a repository because then when I try to push my commits for the first time, I have always had a problem. I don't know why. Till I find the reason, do not use it.
+
 ### After creating the reposiory, do this first:
 
 - Navigate to the directory of the repository's root folder in your terminal
