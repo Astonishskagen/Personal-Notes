@@ -111,7 +111,7 @@ It works exactly the same way as above. You can put links inside your .md file t
 
 ### Adding images
 
-Images are created exactly the same way as the links but inside the paranthesis, instead of putting a link to a page, you put the link to the image. You can either put relative link, or the full web link.
+Images are created exactly the same way as the links but you should add `!` before the brackets `[]` and inside the paranthesis, instead of putting a link to a page, you put the link to the image. You can either put relative link, or the full web link.
 In your GitHub repositories, it is advised to put the Github link to the image instead of the relative link, this way, when the .md file is opened locally with a software, the image will be rendered perfectly.
 
 In case that you still want to add the relative link, this is the way to do. Let's say that in your Github repository looks like this:
@@ -123,7 +123,7 @@ github.md
 ```
 
 And let's say that you are editing blender.md to put the image in it, and your image is called `example.jpg` and it is inside the `/images/blender/` folder relative to the directory of your file. You can link your image this way:
-`[blender example](images/blender/example.jpg)`
+`![blender example](images/blender/example.jpg)`
 This will use the relative link for the image. If you want to put the Github link instead, in this case, instead of using the relative link above, you put the github's http link to the image.
 
 ### Creating lists
