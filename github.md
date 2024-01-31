@@ -24,7 +24,8 @@ Then log-in to your Github account with `gh auth login` and authoriz it with htt
 
 First of all you should create a local directory, wherever you want in your computer to create a git repository.
 
-> **NOTE** that _git_ and _github_ are two different things. _Git_ repository is the `.git/` folder inside a proect. This repository tracks all changed made to files in your project's hisory.
+> [!NOTE]
+> Atention that _git_ and _github_ are two different things. _Git_ repository is the `.git/` folder inside a proect. This repository tracks all changed made to files in your project's hisory.
 > _GitHub_ on the other hand, is a cloud service to host your _git_ project. There are also other alternatives like _Gitlab_. So, git repository **is not equal to** GitHub.
 > Inside this folder put all of the files, folders..etc that you want to host.
 
