@@ -9,6 +9,13 @@
 - [Adding links](https://github.com/Astonishskagen/g-notes/blob/main/markdown.md#adding-links)
 - [Adding links to headings](https://github.com/Astonishskagen/g-notes/blob/main/markdown.md#adding-links-to-the-sections-of-the-same-md-file)
 - [Adding images](https://github.com/Astonishskagen/g-notes/blob/main/markdown.md#adding-images)
+- [Creating lists](https://github.com/Astonishskagen/g-notes/blob/main/markdown.md#creating-lists)
+  - [Unordered lists](https://github.com/Astonishskagen/g-notes/blob/main/markdown.md#unordered-list)
+  - [Ordered lists](https://github.com/Astonishskagen/g-notes/blob/main/markdown.md#ordered-list)
+  - [Nested lists](https://github.com/Astonishskagen/g-notes/blob/main/markdown.md#nested-list)
+- [Task lists](https://github.com/Astonishskagen/g-notes/blob/main/markdown.md#task-lists)
+- [Creating a new paragraph](https://github.com/Astonishskagen/g-notes/blob/main/markdown.md#creating-a-new-paragraph)
+- [Alerts](https://github.com/Astonishskagen/g-notes/blob/main/markdown.md#alerts)
 
 ### How to make text bold and italic
 
