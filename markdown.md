@@ -2,7 +2,7 @@
 
 ### Quicklinks to the sections
 
-- [Text styling](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text)
+- [Text styling](https://github.com/Astonishskagen/g-notes/blob/main/markdown.md#how-to-make-text-bold-and-italic)
 - [Block quotes](https://github.com/Astonishskagen/g-notes/blob/main/markdown.md#creating-a-block-quote-text)
 - [Add inline code](https://github.com/Astonishskagen/g-notes/blob/main/markdown.md#inline-code)
 - [Add code block](https://github.com/Astonishskagen/g-notes/blob/main/markdown.md#code-block)
