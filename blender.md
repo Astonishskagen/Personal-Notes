@@ -4,7 +4,7 @@
 
 ### I am doing this to see how it works. Let's see.
 
-Link to the image
+[Jump to the Task List](https://github.com/Astonishskagen/g-notes/blob/main/blender.md#task-list)
 
 Hello! Thank you for visiting my Blender Markdown notes. I am doing this to learn how to do markdown texts, but also to learn about creating a GitHub repository where I can sync all of my files.
 
