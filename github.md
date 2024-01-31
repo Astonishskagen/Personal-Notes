@@ -47,4 +47,4 @@ Go to the GitHub webpage and to the repository section of your account and click
 
 ### How to apply and push modifications?
 
-Well, inside your repository, after you made the changes, add the files that you want to commit again, with always `git add <file name>` command and commit the added files with `git commit -m "<your comment>"` and finally push it with `git push -u origin main` command.
+Well, inside your repository, after you made the changes, add the files that you want to commit again, with always `git add <file name>` command or `git add .` to add all the modifications and commit the added files with `git commit -m "<your comment>"` and finally push it with `git push -u origin main` command.
