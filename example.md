@@ -7,3 +7,6 @@ Let's check the git pull.
 One last mod.
 
 And one mode from local.
+
+New Trials
+
