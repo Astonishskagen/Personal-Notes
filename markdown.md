@@ -16,43 +16,43 @@
 
   `example of a **bold text**`
 
-which will result in:
+  which will result in:
 
-example of a **bold text**
+  example of a **bold text**
 
 - To create _italic_ test you should put your words in `*`. For example:
 
-`example of an *italic text*`
+  `example of an *italic text*`
 
-which will result in:
+  which will result in:
 
-example of an _italic text_
+  example of an _italic text_
 
 - To create a ~~strikethrough~~ text, you should put your words between `~~`. For example:
 
-`example of a ~~strikethrough text~~`
+  `example of a ~~strikethrough text~~`
 
-which will result in:
+  which will result in:
 
-example of a ~~strikethrough text~~
+  example of a ~~strikethrough text~~
 
 - To create **bold and _nested_** _italic_ you should put the words between `**_`. For example:
 
-`example of a **bold and _nested_ italic text**`
+  `example of a **bold and _nested_ italic text**`
 
-which will result in:
+  which will result in:
 
-example of a **bold and _nested italic_ text**
+  example of a **bold and _nested italic_ text**
 
-This technique is useful if you want to make text **_bold and italic_** inside a **bold** sentence.
+  This technique is useful if you want to make text **_bold and italic_** inside a **bold** sentence.
 
 - To create the whole text both **_bold and italic_** but your words inside of `***`. For example:
 
-`***This whole text will be bold and italic***`
+  `***This whole text will be bold and italic***`
 
-which will result in:
+  which will result in:
 
-**_This whole text will be bold and italic_**
+  **_This whole text will be bold and italic_**
 
 ### Creating a block quote text
 
