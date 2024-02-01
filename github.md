@@ -7,7 +7,7 @@ Then in order to use _Git_, you need to set at least a name and email:
 
 ```
 $ git config --global user.name "Astonish"
-$ git config --globar user.email g****cagit@gmail.com
+$ git config --global user.email g****cagit@gmail.com
 ```
 
 Then you should set the default branch name with this command:
