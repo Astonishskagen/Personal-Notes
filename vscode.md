@@ -16,7 +16,13 @@ Hello! Here I will be sharing the personal notes that I am taking to learn using
 - **Wrap the words to the view** = ALT+Z
 
 ### Useful Extensions
+- **Settings Cycler:** This extension let's you set custom toggle shortcuts to VSCode
+- **Catppuccin Theme:** It's a beautiful theme made for VSCode
+- **Catppuccin Icons:** Adds beautiful Catppuccin icons to the left side bar, file explorer
 
 ### UI Modifications
 - Hide tab bar (the bar on the top showing tabs)
 - Hide breadcumps for the things
+- Set Hyprland window rule for VSCode to 90% of opacity
+- Set the Catppuccin theme mocha to flat from the options
+- Set Maple for the font.
