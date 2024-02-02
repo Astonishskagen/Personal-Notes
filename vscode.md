@@ -11,7 +11,7 @@ Hello! Here I will be sharing the personal notes that I am taking to learn using
 
 #### UI Shortcuts
 
-- **Hide the side bar** = CTRL+B
+- **Hide the side bar** = ALT+B
 - **Hide activity bar** = ALT+I
 - **Hide line numbers** = ALT+L
 - **Hide tab bar** = ALT+T
