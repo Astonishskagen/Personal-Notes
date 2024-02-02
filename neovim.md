@@ -1,5 +1,11 @@
 # Neovim Personal Notes
 
+## Sections
+
+- [Temporary fix for .json files](https://github.com/astonish-g/Personal-Notes/blob/main/neovim.md#temporary-fix-for-the-json-files)
+  - [Formatting](https://github.com/astonish-g/Personal-Notes/blob/main/neovim.md#formatting---file-unrecognized)
+  - [Conceal](https://github.com/astonish-g/Personal-Notes/blob/main/neovim.md#conceal)
+
 ### Temporary Fix for the Json files
 
 #### Formatting - File unrecognized
