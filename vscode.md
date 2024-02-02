@@ -16,3 +16,7 @@ Hello! Here I will be sharing the personal notes that I am taking to learn using
 - **Wrap the words to the view** = ALT+Z
 
 ### Useful Extensions
+
+### UI Modifications
+- Hide tab bar (the bar on the top showing tabs)
+- Hide breadcumps for the things
