@@ -19,6 +19,8 @@ Hello! Here I will be sharing the personal notes that I am taking to learn using
 #### Editor Shortcuts
 
 - **Wrap the words to the view** = ALT+Z
+- **Commenting** = CTRL+/
+- **Multi Line Cursor** = CTRL+SHIFT+UP/DOWN Arrow keys
 
 ### Useful Extensions
 
